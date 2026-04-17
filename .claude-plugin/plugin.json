@@ -1,0 +1,25 @@
+{
+  "name": "feedback-master",
+  "version": "0.1.0",
+  "description": "Deep-interview driven feedback coach that integrates NVC, I-Message, DBT DEAR MAN, SBI-I, and Radical Candor into a single conversational workflow. Korean workplace context included.",
+  "author": {
+    "name": "Hansol Jang",
+    "email": "hansol.jang@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "feedback",
+    "coaching",
+    "communication",
+    "nvc",
+    "nonviolent-communication",
+    "dbt",
+    "dear-man",
+    "i-message",
+    "radical-candor",
+    "korean-workplace"
+  ],
+  "skills": [
+    "./SKILL.md"
+  ]
+}

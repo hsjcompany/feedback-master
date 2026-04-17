@@ -1,0 +1,31 @@
+# Personal preferences — never commit
+user-preferences.md
+user-preferences.*.md
+
+# Claude Code / OMC runtime state (never commit)
+.omc/
+.claude/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+*.log
+
+# Node (if packaging later)
+node_modules/
+dist/
+build/
+
+# Python (if adding scripts later)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local notes
+notes.md
+TODO.md
